@@ -42,28 +42,28 @@ const Contact = () => {
                 </div>
                 <div className="socialNetwork">
                     <ul>
-                        <a href="https://www.google.com" target="_blank"
+                        <a href="https://www.facebook.com/gwiyeoun.kit/" target="_blank"
                             rel="noopener noreferrer">
-                            <h4>LinkedIn</h4>    
-                            <i className="fab fa-linkedin"></i>
+                            <h4>Facebook</h4>    
+                            <i className="fab fa-facebook"></i>
                         </a>
                     
-                        <a href="https://www.google.com" target="_blank"
+                        <a href="https://github.com/cntt2-trangle" target="_blank"
                             rel="noopener noreferrer">
                             <h4>Github</h4>
                             <i className="fab fa-github"></i>
                         </a>
                     
-                        <a href="https://www.google.com" target="_blank"
+                        <a href="https://twitter.com/TrangLe78991583" target="_blank"
                             rel="noopener noreferrer">
                             <h4>Twitter</h4>
                             <i className="fab fa-twitter"></i>
                         </a>
                     
-                        <a href="https://www.google.com" target="_blank"
+                        <a href="https://www.instagram.com/kitkit8246/" target="_blank"
                             rel="noopener noreferrer">
-                            <h4>CodePen</h4>
-                            <i className="fab fa-codepen"></i>
+                            <h4>Instagram</h4>
+                            <i className="fab fa-instagram"></i>
                         </a>
                     </ul>
                 </div>

@@ -12,7 +12,6 @@ const OtherSkills = () => {
                     <li><i className="fas fa-check-square"></i>Agile Methods</li>
                 </ul>
                 <ul>
-                    <li><i className="fas fa-check-square"></i>Figma</li>
                     <li><i className="fas fa-check-square"></i>Design</li>
                     <li><i className="fas fa-check-square"></i>Photoshop</li>
                     <li><i className="fas fa-check-square"></i>Video Montage</li>

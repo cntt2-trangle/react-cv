@@ -29,7 +29,7 @@ const Navigation = () => {
                     <li>
                         <NavLink exact to="/portfolio" activeClassName="navActive">
                             <i className="fas fa-images"></i>
-                            <span>Portfolio</span>
+                            <span>Projects</span>
                         </NavLink>
                     </li>
                     <li>
@@ -44,20 +44,20 @@ const Navigation = () => {
             <div className="socialNetwork">
                 <ul>
                     <li>
-                        <a href="https://www.google.com" target="_blank"
-                            rel="noopener_noreferrer"><i className="fab fa-linkedin"></i></a>
+                        <a href="https://www.facebook.com/gwiyeoun.kit/" target="_blank"
+                            rel="noopener_noreferrer"><i className="fab fa-facebook"></i></a>
                     </li>
                     <li>
-                        <a href="https://www.google.com" target="_blank"
+                        <a href="https://github.com/cntt2-trangle" target="_blank"
                             rel="noopener_noreferrer"><i className="fab fa-github"></i></a>
                     </li>
                     <li>
-                        <a href="https://www.google.com" target="_blank"
+                        <a href="https://twitter.com/TrangLe78991583" target="_blank"
                             rel="noopener_noreferrer"><i className="fab fa-twitter"></i></a>
                     </li>
                     <li>
-                        <a href="https://www.google.com" target="_blank"
-                            rel="noopener_noreferrer"><i className="fab fa-codepen"></i></a>
+                        <a href="https://www.instagram.com/kitkit8246/" target="_blank"
+                            rel="noopener_noreferrer"><i className="fab fa-instagram"></i></a>
                     </li>
                 </ul>
                 <div className="signature">
